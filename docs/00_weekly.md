@@ -1,6 +1,6 @@
 # Weekly Progress Log
 
-## Week 1 | 2026-06-14
+## Week 0 | 2026-06-14
 
 ### Progress
 - Created GitHub repository.
@@ -20,7 +20,7 @@
 - Weekly meeting attended: Yes
 - Key takeaway: Need to update GitHub every week.
 
-## Week 2 | 2026-06-21
+## Week 1 | 2026-06-21
 
 ### Progress
 - Reviewed and analyzed the GitHub project structure related to the research task.
